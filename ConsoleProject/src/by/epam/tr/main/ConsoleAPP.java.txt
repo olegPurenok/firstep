@@ -1,0 +1,7 @@
+package by.epam.main;
+
+public class ConsoleAPP{
+        public static void main(String[] args){
+                System.out.println("Hello,world!!!");
+        }
+}
